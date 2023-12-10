@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Freddyp91
-- 👀 I’m interested in Blockchain Dev, Javascript, and Cloud Computing.
-- 🌱 I’m currently learning Spanish..:)
-- 💞️ I’m looking to collaborate on Defi Projects
+- 👀 I’m interested in IAC, Kubernetes, and Cloud Computing.
 - 📫 How to reach me ... Link with me on here 
 
 <!---
